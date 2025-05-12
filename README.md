@@ -1,4 +1,5 @@
-## ✅ GitHub Repo Setup Instructions
+## ✅ Find Log Sizes
+
 
 ### 1. **Repo URL**
 
